@@ -6,7 +6,7 @@
 - 💞️ I’m looking to collaborate on ...
 -     learning some social interaction 😅 and also for Development
 - 📫 How to reach me ...
--     E-Mail : mailto:salunkevishwajeet577@gmail.com
+-     E-Mail : salunkevishwajeet577@gmail.com
 -     LinkedIn : https://www.linkedin.com/in/vishwajeet-salunke-20b086231/
 -     Instagram : https://www.instagram.com/vishwajeet_salunke/
 
