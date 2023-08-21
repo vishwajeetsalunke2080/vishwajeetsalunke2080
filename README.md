@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vishwajeet Salunke</h1>
 <h3 align="center">I'm a Entry Level Java Developer</h3>
 
-- 🌱 I’m currently learning **React Library and DSA**
+- 🌱 I’m currently learning **React JS and DSA**
 
 - 📫 How to reach me **salunkevishwajeet577@gmail.com**
 
